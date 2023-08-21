@@ -1,1 +1,1 @@
-# compasso_w1_challenge
+Rank the competitors, but beware, the lowest scorer will be eliminated.
