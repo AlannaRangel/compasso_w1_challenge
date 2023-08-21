@@ -1,1 +1,1 @@
-# compasso_w1_challenge
+Simple calculator, able to understand and solve addition and subtraction operations.
