@@ -1,1 +1,1 @@
-# compasso_w1_challenge
+Our program analyzes your feeling expressed by emoticons.
