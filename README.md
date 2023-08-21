@@ -1,1 +1,1 @@
-Rank the competitors, but beware, the lowest scorer will be eliminated.
+Our program analyzes your feeling expressed by emoticons.
