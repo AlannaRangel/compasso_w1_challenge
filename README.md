@@ -1,5 +1,6 @@
 First challenge, divided into five questions to work Java operations, sql and use the MongoDb program.
 
+
 Question 01 - Rank the competitors, but beware, the lowest scorer will be eliminated.
 
 Question 02 - Our program analyzes your feeling expressed by emoticons.
